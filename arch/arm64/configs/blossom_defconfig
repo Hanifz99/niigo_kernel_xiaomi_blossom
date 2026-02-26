@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-kageguri-masho"
+CONFIG_LOCALVERSION="-kakegurui-masho"
 # CONFIG_SHADOW_CALL_STACK is not set
 # CONFIG_KHANDLE_WERROR is not set
 CONFIG_ARM_CPUIDLE=y
